@@ -3,29 +3,34 @@
 ## Table of contents
 
 - [Overview](#overview)
-<!--   - [The challenge](#the-challenge)
+<!--  
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+-->
+- [Process](#process)
+<!-->
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
+  - [Continued development](#continued-development) 
+-->
   - [Useful resources](#useful-resources)
+<!-- 
 - [Author](#author)
-- [Acknowledgments](#acknowledgments) -->
+- [Acknowledgments](#acknowledgments) 
+-->
 
 ## Overview
 This is a FAQ Accordion-styled card that can be used for common question regarding services.
 
-<!-- ### Screenshot -->
+<!-- ! ### Screenshot -->
 
-<!-- ### Links
+<!-- ! ### Links
 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
 
-<!-- ## My process -->
+## Process
 
-<!-- ### Built with
+<!-- ! ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -37,7 +42,7 @@ This is a FAQ Accordion-styled card that can be used for common question regardi
 - [Styled Components](https://styled-components.com/) - For styles -->
 
 
-<!-- ### What I learned
+<!-- ! ### What I learned
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 

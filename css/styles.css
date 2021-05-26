@@ -15,4 +15,21 @@ body {
 
 .card {
   background-color: white;
+  height: 70%;
+  width: 70%;
+  border-radius: 24px;
+  display: flex;
+}
+
+section {
+  width: 50%;
+  align-self: center;
+}
+
+.image {
+  
+}
+
+.faq {
+  
 }

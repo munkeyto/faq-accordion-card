@@ -26,10 +26,17 @@ section {
   align-self: center;
 }
 
-.image {
-  
+.main-image {
+  position: absolute;
+  top: 25%;
+  left: 10%;
 }
 
-.faq {
-  
+/* .bg-pattern {
 }
+.box-image {
+
+}
+.faq {
+    align-self: center;
+} */

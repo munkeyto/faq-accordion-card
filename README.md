@@ -65,6 +65,7 @@ const proudOfThisFunc = () => {
 ### Useful resources
 
 - [Linear Gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient) - This helped me find how to balance colors to my desired weight.
+- [Why does position absolute make page to overflow?](https://stackoverflow.com/questions/36531708/why-does-position-absolute-make-page-to-overflow) - Learned overflow's relationship with absolute and relative postioning.
 
 <!-- ## Author
 

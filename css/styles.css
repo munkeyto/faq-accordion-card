@@ -19,24 +19,29 @@ body {
   width: 70%;
   border-radius: 24px;
   display: flex;
+  overflow: hidden;
 }
 
 section {
   width: 50%;
-  align-self: center;
 }
 
 .main-image {
+  width: 100%;
+  position: relative;
+  top: 12%;
+  left: -17%;
+}
+
+.box-image {
   position: absolute;
-  top: 25%;
-  left: 10%;
+  z-index: 99;
+  top: 43%;
+  left: 6%;
 }
 
 /* .bg-pattern {
-}
-.box-image {
-
-}
-.faq {
-    align-self: center;
+} */
+/* .faq {
+  align-self: center;
 } */

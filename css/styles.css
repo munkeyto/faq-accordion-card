@@ -29,8 +29,8 @@ section {
 .main-image {
   position: relative;
   z-index: 50;
-  top: 12%;
-  left: -17%;
+  top: 60px;
+  left: -80px;
 }
 
 .box-image {
@@ -43,8 +43,8 @@ section {
 .bg-pattern {
   position: relative;
   width: 200%;
-  bottom: 132%;
-  left: -117%;
+  bottom: 645px;
+  left: -545px;
 }
 
 /* .faq {

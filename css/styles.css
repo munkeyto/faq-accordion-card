@@ -47,6 +47,27 @@ section {
   left: -545px;
 }
 
-/* .faq {
+.faq {
   align-self: center;
-} */
+  padding-right: 10%;
+}
+
+h3 {
+  font-size: 2rem;
+  font-family: 'Kumbh Sans', sans-serif;
+  color: hsl(238, 29%, 16%);
+  margin-bottom: 10%;
+}
+
+p {
+  font-size: .8rem;
+  font-family: 'Kumbh Sans', sans-serif;
+  color: hsl(238, 29%, 16%);
+}
+p:hover {
+  color: hsl(14, 88%, 65%);
+}
+
+hr {
+
+}

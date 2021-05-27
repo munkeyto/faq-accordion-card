@@ -15,8 +15,8 @@ body {
 
 .card {
   background-color: white;
-  height: 70%;
-  width: 70%;
+  height: 65%;
+  width: 65%;
   border-radius: 24px;
   display: flex;
   overflow: hidden;
@@ -27,8 +27,8 @@ section {
 }
 
 .main-image {
-  width: 100%;
   position: relative;
+  z-index: 50;
   top: 12%;
   left: -17%;
 }
@@ -36,12 +36,17 @@ section {
 .box-image {
   position: absolute;
   z-index: 99;
-  top: 43%;
-  left: 6%;
+  top: 330px;
+  left: 160px;
 }
 
-/* .bg-pattern {
-} */
+.bg-pattern {
+  position: relative;
+  width: 200%;
+  bottom: 132%;
+  left: -117%;
+}
+
 /* .faq {
   align-self: center;
 } */

@@ -8,7 +8,7 @@
   - [Links](#links)
 -->
 - [Process](#process)
-<!-->
+<!--
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development) 
@@ -20,7 +20,7 @@
 -->
 
 ## Overview
-This is a FAQ Accordion-styled card that can be used for common question regarding services.
+This is a FAQ Accordion-styled card that can be used for common questions regarding services.
 
 <!-- ! ### Screenshot -->
 

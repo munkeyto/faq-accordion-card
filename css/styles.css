@@ -12,7 +12,6 @@ body {
   background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
   align-items: center; 
   justify-content: center;
-
 }
 
 .card {
@@ -61,16 +60,36 @@ h3 {
 }
 
 .faq-item {
-
 }
 
 .question {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  color: hsl(237, 12%, 33%);
+  font-family: 'Kumbh Sans', sans-serif;
+  margin-bottom: .8rem;
+  border: none;
+  background: transparent;
 }
 .question:hover {
   color: hsl(14, 88%, 65%);
 }
+.question::after {
+  display: block;
+  content: '';
+  width: 16px;
+  height: 16px;
+  background-image: url(../images/icon-arrow-down.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  
+}
 
 .answer {
+  color: hsl(240, 6%, 50%);
   margin-bottom: .8rem;
   font-size: 0.8rem;
 }

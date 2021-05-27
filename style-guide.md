@@ -17,12 +17,8 @@ The designs were created to the following widths:
 
 #### Text
 
-- Very dark grayish blue: hsl(237, 12%, 33%)
-- Dark grayish blue: hsl(240, 6%, 50%)
-
 #### Dividers
 
-- Light grayish blue: hsl(240, 5%, 91%)
 
 ## Typography
 
@@ -32,5 +28,3 @@ The designs were created to the following widths:
 
 ### Font
 
-- Family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans)
-- Weights: 400, 700

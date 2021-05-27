@@ -59,15 +59,30 @@ h3 {
   margin-bottom: 10%;
 }
 
+.drop-down {
+}
+
 p {
   font-size: .8rem;
   font-family: 'Kumbh Sans', sans-serif;
   color: hsl(238, 29%, 16%);
+  margin-bottom: .8rem;
 }
-p:hover {
+
+.question {
+  display: flex;
+  justify-content: space-between;
+}
+.question > p:hover {
   color: hsl(14, 88%, 65%);
+  cursor: pointer;
+}
+
+.arrow {
+  height: fit-content;
 }
 
 hr {
   color: hsl(240, 5%, 91%);
+  margin-bottom: .8rem;
 }

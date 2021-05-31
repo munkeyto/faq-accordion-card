@@ -21,23 +21,32 @@
 			<img src="images/bg-pattern-desktop.svg" class="bg-pattern" alt="background pattern">
 		</section>
 
-		<section class="faq">
+		<section id="faq">
 
 			<h3>FAQ</h3>
-			<div class="faq-questions">
-        
-        <div class="faq-item">
-          <button class="question">
+
+      <ul id="faq-questions">
+        <li>
+          <button aria-controls="content-1" aria-expanded="false" id="accordion-control-1">
             How many team members can I invite?
           </button>
-          <div class="collapse">
-            <div class="answer">
+          <div　class="acc-item-content" aria-hidden="true" id="content-1">
+            <p>
               You can invite up to 2 additional users on the Free plan. There is no limit on team members for the Premium plan.
-            </div>
+            </p>
           </div>
-        </div>
+        </li>
         <hr>
-        
+
+      </ul>
+
+
+
+
+
+
+
+
         <div class="faq-item">
           <button class="question">
             What is the maximum file upload size?

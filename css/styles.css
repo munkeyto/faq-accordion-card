@@ -24,7 +24,7 @@ body {
 }
 
 section {
-  width: 50%;
+  flex: 1;
 }
 
 .main-image {
@@ -90,13 +90,7 @@ ul {
 
 #faq-question button.active:after{
   display: block;
-  content: '';
-  width: 16px;
-  height: 16px;
   background-image: url(../images/icon-arrow-down.svg);
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: center center;
 }
 
 .acc-item-content{

@@ -111,39 +111,6 @@ p {
   font-size: 0.8rem;
 }
 
-
-
-
-
-
-
-
-
-
-.question::after {
-  display: block;
-  content: '';
-  width: 16px;
-  height: 16px;
-  background-image: url(../images/icon-arrow-down.svg);
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: center center;  
-}
-.question.open {
-
-}
-
-.collapse {
-  display: none;
-}
-
-
-
-.arrow {
-  height: fit-content;
-}
-
 hr {
   color: hsl(240, 5%, 91%);
   margin-bottom: .8rem;
